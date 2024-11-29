@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: vkBot
+
+vk:
+  version: 5.199
+  confirmationCode: 
+  accessToken:
